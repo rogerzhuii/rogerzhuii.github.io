@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-[![Site preview](https://github.com/rogerzhuii/rogerzhuii.github.io/blob/master/Presentation1.gif)](https://hashirshoaeb.github.io/)
+[![Site preview](/public/Slide1.png)](https://hashirshoaeb.github.io/)
  
  <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
