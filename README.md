@@ -8,7 +8,7 @@
     <br />
     <a href="https://drive.google.com/file/d/1wN--FyYv3-NaAOhKKVFCF6ddiLyMMXeA/view?usp=sharing">CV</a>
     ·
-    <a href="https://drive.google.com/file/d/1a8itkRcvDbUbv3fl7vTqWmMPUklxnFWh/view?usp=sharing">One page resumé</a>
+    <a href="https://drive.google.com/file/d/1jAZnwMAtY-DB6N4CPxDWgv2ORfzzlQK7/view?usp=sharing">One page resumé</a>
 </p>
 
 
