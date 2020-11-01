@@ -7,7 +7,7 @@
     <br />
     <a href="https://hashirshoaeb.com">About Me</a>
     ·
-    <a href="https://github.com/hashirshoaeb/home/issues">CV</a>
+    <a href="https://github.com/rogerzhuii/rogerzhuii.github.io/blob/master/src/editable-stuff/Yifan_Zhu_Resume.pdf">CV</a>
  
 </p>
 
