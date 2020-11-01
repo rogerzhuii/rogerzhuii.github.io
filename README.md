@@ -2,7 +2,7 @@
 [![Site preview](/public/Slide1.png)
  
  <p align="center">
-    Hello! I am is Yifan Zhu. I am PhD candidate in Economics. 
+    Hello! My name is Yifan Zhu. I am a Ph.D. candidate in Economics at the University of Delaware.  
     <br />
     <br />
     <a href="https://hashirshoaeb.com">About Me</a>
