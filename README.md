@@ -1,21 +1,16 @@
 <!-- PROJECT LOGO -->
-[![Site preview](/public/Slide1.png)(https://hashirshoaeb.github.io/)
+[![Site preview](/public/Slide1.png)
  
  <p align="center">
-    It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io">hashirshoaeb.github.io</a>
+    Hello! I am is Yifan Zhu. I am PhD candidate in Economics. 
     <br />
     <br />
     <a href="https://hashirshoaeb.com">About Me</a>
     ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hashirshoaeb/home/issues">Request Feature</a>
-  </p>
+    <a href="https://github.com/hashirshoaeb/home/issues">CV</a>
+ 
 </p>
 
-
-[![Site preview](/public/social-image.png)](https://hashirshoaeb.github.io/)
 
 ## Table of Contents
 
