@@ -8,7 +8,8 @@
     <a href="https://hashirshoaeb.com">About Me</a>
     ·
     <a href="https://drive.google.com/file/d/1wN--FyYv3-NaAOhKKVFCF6ddiLyMMXeA/view?usp=sharing">CV</a>
- 
+    ·
+    <a href="https://hashirshoaeb.com">One page resumé</a>
 </p>
 
 
