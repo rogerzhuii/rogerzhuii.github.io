@@ -6,7 +6,7 @@
     Hello! My name is Yifan Zhu. I am a Ph.D. candidate in Economics at the University of Delaware.  
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/1wN--FyYv3-NaAOhKKVFCF6ddiLyMMXeA/view?usp=sharing">Full CV</a>
+    <a href="https://drive.google.com/file/d/1YAgZY9RN9nCrBHWMtFx_pDDANQnc5o1G/view?usp=sharing">Full CV</a>
     ·
     <a href="https://drive.google.com/file/d/1jAZnwMAtY-DB6N4CPxDWgv2ORfzzlQK7/view?usp=sharing">One page resumé</a>
 </p>
