@@ -9,6 +9,8 @@
     <a href="https://drive.google.com/file/d/1YAgZY9RN9nCrBHWMtFx_pDDANQnc5o1G/view?usp=sharing">Full CV</a>
     ·
     <a href="https://drive.google.com/file/d/1jAZnwMAtY-DB6N4CPxDWgv2ORfzzlQK7/view?usp=sharing">One page resumé</a>
+ ·
+    <a href="https://www.linkedin.com/in/yifan-zhu-705b90171/">LinkedIn</a>
 </p>
 
 
