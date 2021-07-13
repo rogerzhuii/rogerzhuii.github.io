@@ -18,7 +18,7 @@
 
 With a curious mind and an adventurous heart, I always seek answers to various questions of different nature. Having worked part-time on a local farm, I saw how to plant a seed and wait for it to sprout and finally turn into fruit. As my farmer friend says, plant the seed first, and you will see the fruit, which sounds like a cause-effect to me. 
 
-Being trained in graduate school offered me a chance to use data to detect the correlation or causation between things that are not always tangible. I am motivated to get proficient in my role as a research scientist at Independence Blue Cross in Philly and continue doing HERO studies.  
+Being trained in graduate school offered me a chance to use data to detect the correlation or causation between things that are not always tangible. I am motivated to get proficient in my role as a research scientist at Independence Blue Cross in Philly and continue doing HEOR studies.  
 
 
 ![Site preview](/public/Sketch%201.png)
