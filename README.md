@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 
-![Site preview](/public/Slide1.png)
+![Site preview](/public/Slide1.jpg)
  
  <p align="center">
     Hello! My name is Yifan Zhu. I graduated with a Ph.D. in Economics at the University of Delaware.  
